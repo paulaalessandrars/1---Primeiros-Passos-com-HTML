@@ -1,4 +1,4 @@
-# 1---Primeiros-Passos-com-HTML
+Primeiros-Passos-com-HTML
 
 Entendendo o Desafio:
  
